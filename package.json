@@ -13,6 +13,7 @@
 	},
 	"devDependencies": {
 		"browser-sync": "2.26.3",
+		"bulma": "^0.7.2",
 		"del": "3.0.0",
 		"gulp": "^4.0.0",
 		"gulp-autoprefixer": "6.0.0",
@@ -28,7 +29,10 @@
 		"gulp-uglify": "3.0.1",
 		"jshint": "2.9.6",
 		"jshint-stylish": "2.2.1",
-		"lazypipe": "1.0.1"
+		"lazypipe": "1.0.1",
+		"node-sass": "^4.11.0"
 	},
-	"dependencies": {}
+	"dependencies": {
+		"sass-convert": "^0.5.2"
+	}
 }

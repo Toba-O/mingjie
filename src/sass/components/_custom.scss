@@ -1,0 +1,28 @@
+// Theme Colors
+$orange: #FF7343;
+$blue: #4B6FD9;
+$green: #3ADB8E;
+$yellow: #FFC443;
+$brown: #757763;
+$beige-light: #D0D1CD;
+$beige-lighter: #EFF0EB;
+
+// Update Bulma's global variables
+$family-primary: "Circular Std Book",
+sans-serif;
+$family-secondary: "Circular Std Book",
+sans-serif;
+$grey-dark: $brown;
+$grey-light: $beige-light;
+$primary: $blue;
+$link: $orange;
+$warning: $yellow;
+$success: $green;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+// Update some of Bulma's component variables
+$body-background-color: $beige-lighter;
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
