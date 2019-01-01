@@ -3,11 +3,9 @@ AOS.init({
     once: true
 });
 
-document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-            behavior: 'smooth'
-        });
+$(document).ready(function () {
+    $("a[href^='#']").click(function (event) {
+        event.preventDefault();
+        $("html, body").animate({ scrollTop: $($(this).attr("href")).offset().top - 0.08 * $(window).height()}, 800, 'linear');
     });
 });
