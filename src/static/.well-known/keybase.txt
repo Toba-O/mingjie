@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/mingjie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mingjie.info
+  * I am mingjie (https://keybase.io/mingjie) on keybase.
+  * I have a public key with fingerprint 76D3 091D CBDD FA1F E1BD  4C26 2E4F 3FAA 6AFA 312D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010148ae986bea9c4efda63c3378644fdb98cc15e77bc44623676414fa97b56c49a60a",
+      "fingerprint": "76d3091dcbddfa1fe1bd4c262e4f3faa6afa312d",
+      "host": "keybase.io",
+      "key_id": "2e4f3faa6afa312d",
+      "kid": "01015ef110c24b037b63edd5f1b15c659e7708a42aba373750f3a97ed6e5343eec6d0a",
+      "uid": "084c33388435e7569d05053f92106e19",
+      "username": "mingjie"
+    },
+    "merkle_root": {
+      "ctime": 1546705016,
+      "hash_meta": "aeacc591e7f41881313bcdf23630b3918ef9ad3ce68580bb96ae1423e088f797",
+      "seqno": 4236606
+    },
+    "revoke": {
+      "sig_ids": [
+        "3fc9d30fad66824b3f90540569d74a1aed56e367153ba97b14aecaabb3c484d10f"
+      ]
+    },
+    "service": {
+      "hostname": "mingjie.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1546705019,
+  "expire_in": 157680000,
+  "prev": "024b3c98cab4daf51fa70f86a033030c21fdc1d2a952db392fdd41f05fa35920",
+  "seqno": 45,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtU3tMFEccPh4iYIltfcRYFbuRqkjJzs7u7O4Zg1iNJqhFTNRW2nNmZ+ZcDu7O
+u+OUiqQq9dFU44MoSILWxkbxEbENaYwVlFKttImEaABFqm3TWLWASrW2amdpTR/p
+/rPZ336/7/d9329mW0qcKzEm8/Ws2oJH4NWYlpvElS+3l62WSICWSO7Vko8NvFgh
+ZeGIx2dTyS3JQAaqgZlpIMKwaamMU4ygBaFuIFXllJiGZQGN6TqxVBUpEOlIBSrH
+pk40ZKkmRjKWMiRu+70sFAzZ/oig1RGFsgmoRSjlGHAGCFUtBSlM5ZBjjDDHEChU
+NC4PhJ0OIY7gMMu0A6ImPjwD8v4H/7dujXEAZEtRiQx1giCjVOOAAM1CmikEywZW
+FUww1KGuyRwKyYwipkEVMmYhOqC7+E86QxWWoWGoUFjVkEllTdYgNxUgIwZMBxhm
+IT8uYgJdJLwW2ExakyEVsZCvkHlCgUDEydaK2A4CaCrSBQNAwh8OL/cUsQgWjZhh
+y9JMwHSuAsMAEEBiUS5ChTKBJjAYNzGFFkOGZsiEmAgzoCqQyYbBdVMXMsJshT8g
+uUURIRkJBSEWDfiYMzxse0VqYcm9VILcMmljFMocU4QMEZHwImuq7FjTVQwwoxpi
+YplAg8TZJVAxszAmBFqqoVIgc+mtNc64UNS2BuidRf07gEzbz511BUOBSMAKFIo/
+yyORYNjtJBMpCTrQlYx4/iLxENtPRafoiLJQ2A74RVIC+d/QzAyJrQraIeaxHYSm
+I0MWjzOHRZ1lOXYscS4xUSnmGuBYl7mBsAyhDMWBAJxagCrY1BQqYlU4pSrgsibO
+kGYq8j9S1IRO7BWcIjs/jhSHxFKTN8fCeFdMomvsyJfjo21JY1u6HqVe/3zuK8+u
+1qBY5165kpOef1bxPxr6dMacnGEbjy6+PXdTvLX+tKv6zItVe33JzdG8hu6Q61Zv
+T/+yg+6fr9IbJ+07uyYb9+76xoVAfWOrUvXND8n7OhbPO7dlzpPPmh9ceeLNMqYE
+WiabPYkrEoef23BrpoInTVuQ1ZTUR8y6lKSTV1mGPr51Rl/wVvmGw1Ph2tEtbVfX
+NOy/drxgxvZJXlS9vpMXl9bPT68ZHl/5EBXuPFC0ri0tobfj8JEh6SMqRvc1lMhj
+ptTuCNAnzzVED5yZWHE6rf9K6ZYdt4M0BeOczt5PvqxUYpv8hfPyUya6S2PO5o9Z
+sKl1UFl199aU3dne4o6tPD0zo3ZPx4+L2nJ3Xmjd7B15acRT7YWu1CNlecOSvs9t
+P9G5o84+P7Nxz9IjS0p+f+OX+bUno+drEgbXLLv3Zn9wSnhaX2v9wmvtxUP35q2f
+7b7/U9rjQXMezOrPg1Wzy7KnlbvIiaymnLSKUx/cP7vt47HNF0v35Xx9oSu170J2
+8sSNWsmlayNrfttAjkqKeXHCr+t23umMu17wTl85ya5YMr3zpZgPKx+vLH14/KZ3
+ltoTqbt/+YsT2ePfS6hvqvlo7lcHdan926K1pi86a5d1Pr2HZG2PO/RuauUos75k
+YdwIJTZu8JBTuVOPfff+/gp7VENZVX+5u/vA2/mp3V276/KP9Taumn5o+2vjmhfd
+3f9pU87lghtGQj25m1LhG/0H
+=xn0/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mingjie
+
+==================================================================
